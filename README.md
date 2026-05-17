@@ -1,3 +1,5 @@
+This repository has been migrated. For ongoing updates, please see https://github.com/thinkjs/thinkjs/tree/master/packages/think-helmet.
+
 # think-helmet
 
 [![npm](https://img.shields.io/npm/v/think-helmet.svg?style=flat-square)]()
